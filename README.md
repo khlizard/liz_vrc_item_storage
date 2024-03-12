@@ -1,5 +1,3 @@
 # VRC Item Storage
 
-VRC用のファイルを置いとくところ
-
-Trusted URLなので…
+VRC用のファイルを置いとくところです
